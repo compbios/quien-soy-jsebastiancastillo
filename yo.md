@@ -1,4 +1,4 @@
-Hola soy **Fabián Gil**
+Hola soy **Juan Sebastian Castillo**
 
 
 
@@ -6,5 +6,5 @@ Hola soy **Fabián Gil**
 
 
 
-Soy *estadístico* y Bioestadístico
+Soy *médico*, *Salubrista* y *epidemiólogo*
 
